@@ -142,8 +142,8 @@ svg {
 
 .hamburger-icon {
     position: absolute;
-    left: 128rem;
-    top: 10px;
+    right: 0;
+    top: 0;
     /* Add position */
 }
 
